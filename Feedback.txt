@@ -1,0 +1,42 @@
+Answers to the Feedback Questions by Harini Manohar
+Date: March 13, 2025
+
+1. How many hours did it take you to complete this assessment? 
+
+A:
+    Problem 1: ~4 hours (Understanding inheritance and testing classes)  
+    Problem 2: ~3 hours (Implementing movement functionality and method overriding)  
+    Problem 3: ~6 hours (Working with abstract classes, inheritance hierarchy, and calculations for area/perimeter)  
+    Problem 4: ~5 hours (Implementing interfaces, scaling functionality, and refining previous code)  
+    GitHub Setup & Cleanup: ~2 hours (Branching, commits, PRs, and repo organization)  
+
+---
+
+2. What online resources have you used?  
+
+A:
+  - Lecture materials  
+  - Stack Overflow (for syntax and logic clarification)  
+  - O'Reiley (for understanding specific concepts like scaling and interfaces)  
+
+---
+
+3. Did you need to ask any of your friends in solving the problems?  
+
+A: No.
+
+---
+
+4. Did you need to ask questions to any of your instructors?  
+
+A: No.
+
+---
+
+5. Rate (subjectively) the difficulty of each question and confidence level for solving similar problems in the future:  
+
+A:
+    Problem 1: Medium – Gained strong understanding of inheritance and feel confident solving similar problems.  
+    Problem 2: Medium – Overriding and movement logic were initially challenging but are now clear.  
+    Problem 3: High – Abstract classes and calculations required attention but I feel well-prepared for similar problems.  
+    Problem 4: High – Implementing interfaces and scaling logic was challenging but I now feel confident in my approach.  
