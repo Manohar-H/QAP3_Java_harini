@@ -6,14 +6,8 @@ This repository contains the solutions for **QAP 3 (Quantitative Assessment Prac
 ---
 
 ## 🗂️ Project Structure
-QAP3-Java
-├── problem1  # Inheritance with Person, Student, Teacher, CollegeStudent
-├── problem2  # Inheritance and method overriding with Point and MovablePoint
-├── problem3  # Abstract class hierarchy for shapes 
-├── problem4  # Scalable interface implemented with scaling functionality in shapes
-├── Feedback.txt  # Answers to assignment reflection questions
-├── README.md  # Project overview and setup instructions
-└── OutputScreenshots # Output screenshots for each problem
+
+![Project Structure](OutputScreenshots/ProjectStructure.png)
 
 ---
 
@@ -26,10 +20,8 @@ QAP3-Java
 ### Steps to Run:
 1.  Navigate to the specific problem folder, e.g., `problem1`:
     cd problem1
-
 2.  Compile the Java files:
     javac *.java
-
 3.	Run the demo program:
     java Demo
 #### Repeat this for each problem folder (problem2, problem3, problem4).
@@ -42,32 +34,29 @@ Here are the output screenshots for each problem:
 
 - **Problem 1:**  
   ![Problem 1 Output](OutputScreenshots/Problem1.png)
-
 - **Problem 2:**  
   ![Problem 2 Output](OutputScreenshots/Problem2.png)
-
 - **Problem 3:**  
   ![Problem 3 Output](OutputScreenshots/Problem3.png)
-
 - **Problem 4:**  
   ![Problem 4 Output](OutputScreenshots/Problem4.png)
 
 ---
 
 ## ✅ GitHub Workflow Highlights:
-	•	Branching: Each problem was implemented in its own branch.
-	•	Commits: Regular, descriptive commits were made throughout the project.
-	•	Pull Requests: Each branch was merged via a PR to maintain a clean history.
-	•	.gitignore: .class files and unnecessary system files were ignored to keep the repository clean.
+•	Branching: Each problem was implemented in its own branch.
+•	Commits: Regular, descriptive commits were made throughout the project.
+•	Pull Requests: Each branch was merged via a PR to maintain a clean history.
+•	.gitignore: .class files and unnecessary system files were ignored to keep the repository clean.
 
 ---
 
 ## 📄 Feedback and Reflection:
 
-Please see "Feedback.txt" file for detailed answers regarding the assignment experience.
+- [View Feedback and Reflection Responses](Feedback.txt)for detailed answers regarding the assignment experience.
 
 ---
 
 ## 🤝 Contribution and Collaboration
-	•	No external collaboration was required apart from utilizing online resources and lecture materials.
-	•	All work was independently completed following best practices.
+•	No external collaboration was required apart from utilizing online resources and lecture materials.
+•	All work was independently completed following best practices.
