@@ -1,1 +1,11 @@
 *.class
+
+.DS_Store
+
+bin/
+
+*.log
+
+.idea/
+
+.vscode/
