@@ -10,6 +10,32 @@ public class Person {
         this.myGender = gender;
     }
 
+    // Getter methods
+    public String getName() {
+        return myName;
+    }
+
+    public int getAge() {
+        return myAge;
+    }
+
+    public String getGender() {
+        return myGender;
+    }
+
+    // Setter methods
+    public void setName(String name) {
+        this.myName = name;
+    }
+
+    public void setAge(int age) {
+        this.myAge = age;
+    }
+
+    public void setGender(String gender) {
+        this.myGender = gender;
+    }
+
     // toString method
     @Override
     public String toString() {
